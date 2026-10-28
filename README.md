@@ -38,5 +38,5 @@ I design and build backend systems, with a focus on system design and software a
 
 ## Certifications
 
-![Anthropic AI Foundations](https://img.shields.io/badge/Anthropic-AI_Foundations_(AIF)-D97757?style=flat-square)
-![Claude Certified Architect](https://img.shields.io/badge/Claude_Certified_Architect-Foundations_(CCAR--F)-D97757?style=flat-square)
+![Anthropic AI Foundations (AIF)](https://img.shields.io/badge/Anthropic-AI_Foundations_%28AIF%29-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Certified Architect - Foundations (CCAR-F)](https://img.shields.io/badge/Anthropic-Claude_Certified_Architect_Foundations_%28CCAR--F%29-D97757?style=flat-square&logo=anthropic&logoColor=white)
