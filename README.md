@@ -1,8 +1,16 @@
 # Hi, I'm a Backend Software Engineer
 
-I design and build backend systems, with a focus on system design and software architecture. My long-term goal is to become a Software Architect.
+I design and build backend systems, with a focus on system design and software architecture.
 
-**Interests:** Distributed Systems · Cloud Computing · AI Engineering
+![Role](https://img.shields.io/badge/Role-Backend_Developer-24292f?style=flat-square&logo=serverfault&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-System_Design-24292f?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Goal](https://img.shields.io/badge/Goal-Software_Architect-24292f?style=flat-square&logo=target&logoColor=white)
+
+## Interests
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-0A66C2?style=flat-square&logo=apachekafka&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0A66C2?style=flat-square&logo=icloud&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-0A66C2?style=flat-square&logo=anthropic&logoColor=white)
 
 ## Tech Stack
 
