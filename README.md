@@ -38,5 +38,6 @@ I design and build backend systems, with a focus on system design and software a
 
 ## Certifications
 
-![AWS Certified AI Practitioner (AIF-C01)](https://img.shields.io/badge/AWS-Certified_AI_Practitioner_%28AIF--C01%29-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Claude Certified Architect - Foundations (CCAR-F)](https://img.shields.io/badge/Anthropic-Claude_Certified_Architect_Foundations_%28CCAR--F%29-D97757?style=flat-square&logo=anthropic&logoColor=white)
+<a href="https://aws.amazon.com/certification/certified-ai-practitioner/"><img src="assets/aws-ai-practitioner.png" alt="AWS Certified AI Practitioner (AIF-C01)" height="150"></a>
+&nbsp;&nbsp;
+<img src="assets/claude-certified-architect.png" alt="Claude Certified Architect - Foundations (CCAR-F)" height="150">
