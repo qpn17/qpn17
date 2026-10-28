@@ -1,4 +1,4 @@
-# Hi, I'm a Backend Software Engineer
+# Hi, I'm a Software Engineer
 
 I design and build backend systems, with a focus on system design and software architecture.
 
